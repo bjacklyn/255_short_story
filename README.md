@@ -4,8 +4,8 @@
 
 * Research Paper: https://arxiv.org/pdf/2409.00743
 * Medium Article: <todo>
-* Slideshare Presentation: <todo>
-* Youtube Video: <todo>
+* Slideshare Presentation: https://www.slideshare.net/secret/LWdjAyMaOoDc2n
+* Youtube Video: https://www.youtube.com/watch?v=VG-ptw12NYc
 
 ## Abstract
 
