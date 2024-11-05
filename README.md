@@ -3,7 +3,7 @@
 ## Interpretable Clustering: A Survey (September 2024)
 
 * Research Paper: https://arxiv.org/pdf/2409.00743
-* Medium Article: <todo>
+* Medium Article: https://medium.com/@brandonjacklyn/interpretable-clustering-db306ccb9b1c
 * Slideshare Presentation: https://www.slideshare.net/secret/LWdjAyMaOoDc2n
 * Youtube Video: https://www.youtube.com/watch?v=VG-ptw12NYc
 
